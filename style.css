@@ -651,27 +651,27 @@ video {
 
 .splash{
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	left: 50%;
 	display: block;
 	margin: -100px 0 0 -300px;
 	height: 200px;
 	width: 600px;
-	font-family: 'Selima', Fallback, sans-serif;
+	font-family: 'Qwigley', Fallback, sans-serif;
 }
 
 .splash #t1{
-	font-size: 4.5em;
+	font-size: 6.5em;
 	margin:0 20%;
 	color: #ffffff;
 }
 .splash #t2{
-	font-size: 3.5em;
+	font-size: 5.5em;
 	margin:0 17.5%;
 	color: #ffffff;
 }
 .splash #t3{
-	font-size: 5.5em;
+	font-size: 7.5em;
 	color: #ffffff;
 }
 

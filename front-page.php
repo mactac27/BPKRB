@@ -261,14 +261,14 @@
   </div>
   <div class="btm">
     <video poster="<?php echo get_template_directory_uri(); ?>/img/screencap.png" id="bgvid" playsinline autoplay muted loop>
-      <source src="<?php echo get_template_directory_uri(); ?>/videos/682417945.mp4" type="video/mp4">
+      <source src="<?php echo get_template_directory_uri(); ?>/videos/FFeathers.mp4" type="video/mp4">
     </video>
     <div class="vidOverlay"></div>
     <div class="txtOverlay">
       <div class="splash">
         <span id="t1"> Always be yourself, </br></span>
-        <span id="t2"> Unless you can be a Peacock </br></span>
-        <span id="t3"> ...then always be a Peacock !!! </br></span>
+        <span id="t2"> Unless you can be a Peacock... </br></span>
+        <span id="t3"> ...then always be a Peacock! </br></span>
       </div>
       <button class="icon-scroll"/>
     </div>
